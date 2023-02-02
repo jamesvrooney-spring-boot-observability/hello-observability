@@ -1,3 +1,8 @@
+# This project is a fork of:
+- [https://github.com/adamquan/hello-observability]()
+    - Blog Post:
+        - [Set up and observe a Spring Boot application with Grafana Cloud, Prometheus, and OpenTelemetry](https://grafana.com/blog/2022/04/26/set-up-and-observe-a-spring-boot-application-with-grafana-cloud-prometheus-and-opentelemetry)
+
 # Hello Observability
 Simple [Spring Boot](https://spring.io/guides/gs/spring-boot) application to demonstrate collecting and correlating logs, metrics and traces with [Prometheus](https://prometheus.io/), [OpenTelemetry](https://opentelemetry.io/), and [Grafana Cloud](https://grafana.com/products/cloud/). It is built using [Maven](https://spring.io/guides/gs/maven/). 
 
